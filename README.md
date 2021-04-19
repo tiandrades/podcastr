@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="/.github/favicon.png" alt="favicon" />
   <h3>podcastr</h3>
   <p>An application to listen to a podcast ✨</p>
   <hr/>
@@ -14,6 +15,7 @@
 This project was developed with the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
 - [ReactJS](https://reactjs.org/)
 
 ## ❓ About
