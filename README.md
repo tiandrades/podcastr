@@ -27,7 +27,7 @@ Do you want to listen to our podcast? This is the place!
 
 ```
 # Clone this repository
-$ https://github.com/tiagooandrade/podcastr.git
+$ git clone https://github.com/tiagooandrade/podcastr.git
 
 # Install dependencies
 $ yarn install our npm install
