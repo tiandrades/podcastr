@@ -10,6 +10,11 @@
   </p>
 </div>
 
+## ❓ About
+Do you want to listen to our podcast? This is the place!
+
+<img src="/.github/thumbnail.png" alt="thumbnail" />
+
 ## ✨ Technologies
 
 This project was developed with the following technologies:
@@ -17,11 +22,6 @@ This project was developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [ReactJS](https://reactjs.org/)
-
-## ❓ About
-Do you want to listen to our podcast? This is the place!
-
-<img src="/.github/thumbnail.png" alt="thumbnail" />
 
 ## 🚀 How to run
 
